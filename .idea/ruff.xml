@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RuffConfigService">
+    <option name="projectRuffExecutablePath" value="E:\FastApi\.venv\Scripts\ruff.exe" />
+    <option name="useRuffLsp" value="true" />
+  </component>
+</project>
