@@ -6,6 +6,7 @@ The project for study FastAPi.
 
 - [Python](https://www.python.org/downloads/)
 - [PostgreSQL](https://www.postgresql.org/)
+- [FastApi](https://fastapi.tiangolo.com/)
 
 ## Local Developing
 
